@@ -28,10 +28,9 @@ A web application created as a marketplace for the buying and selling of yarn.
 - Database: MongoDB
 
 ## ✅ More About Goals/Objectives
-- Graduate 🎓
 - Join the workforce as an up-and-coming Software Developer.
 - Continue to master my familiar programming languages and frameworks and the "best practices" of programming.
-- Begin to master other languages and frameworks that are necessary for the future of software development.
+- Begin to master other languages, frameworks, and updates that are necessary for the future of software development.
 
 
 <!--
