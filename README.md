@@ -1,6 +1,6 @@
 # What's Up, Everyone! 🤜🏾🤛🏾
 
-Welcome to my GitHub! I am Marvin Evans Jr., a senior student hoping to push the needle of software development even further. 
+Welcome to my GitHub! I am Marvin Evans, Jr., a recent graduate hoping to push the needle of software development even further. 
 
 ## 🧐 More About Me
 
