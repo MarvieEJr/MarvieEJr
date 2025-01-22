@@ -13,8 +13,9 @@ Welcome to my GitHub! I am Marvin Evans, Jr., a recent graduate hoping to push t
 
 ## ✅ More About Goals/Objectives
 - Join the workforce as an up-and-coming Software Developer.
-- Continue to master my familiar programming languages and frameworks and the "best practices" of programming.
-- Begin to master other languages, frameworks, and updates that are necessary for the future of software development.
+- Continue to master my familiar programming languages, frameworks, and the "best practices" of programming.
+- Possibly venture into Cybersecurity or Data Science.
+- Take heed of the updates necessary for software development's future.
 
 
 <!--
