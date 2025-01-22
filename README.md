@@ -7,8 +7,9 @@ Welcome to my GitHub! I am Marvin Evans, Jr., a recent graduate hoping to push t
 - Major: Computer Science
 - Concentration: Software Engineering
 - Interests: Software Engineering, Web Development, Mobile Development
-- Languages: Java, Python, HTML, CSS, JavaScript, SQL
+- Languages: Java, HTML, CSS, JavaScript, SQL, with some experience with C#, Python
 - Databases: MySQL, PostgreSQL, MongoDB
+- Frameworks: Express.js, Spring Boot, with some experience with ASP.NET, Flask
 
 ## ✅ More About Goals/Objectives
 - Join the workforce as an up-and-coming Software Developer.
